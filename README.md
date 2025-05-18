@@ -40,7 +40,7 @@ Customers were segmented based on behavioral indicators such as flight/hotel act
 
 ## 4. Key Findings
 
-- **25% overlap** between *Business Travelers* and *High Spenders*.
+- **As much as 25% overlap** between *Business Travelers* and *High Spenders*.
 - Significant cross-segment users → a **flexible loyalty model** is needed.
 - “**Dreamers**” represent a large untapped opportunity.
 - Segments like “Family with Kids” may not warrant dedicated treatment due to small size.
